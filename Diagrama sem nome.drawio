@@ -114,36 +114,42 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oChSvFo8GuXUbPZUIg0g" name="Página-3">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iuLTxedcwstDW7Arj6xw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="89" y="30" width="650" height="720" as="geometry" />
+        </mxCell>
         <mxCell id="U1SpyC3rxzSheMR1uUHy-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="220" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="U1SpyC3rxzSheMR1uUHy-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="130" width="160" height="70" as="geometry" />
+          <mxGeometry x="334" y="140" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="U1SpyC3rxzSheMR1uUHy-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="40" width="160" height="70" as="geometry" />
+        <mxCell id="U1SpyC3rxzSheMR1uUHy-3" value="ACESSO A HOTEIS&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="60" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="U1SpyC3rxzSheMR1uUHy-5" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="100" width="70" height="120" as="geometry" />
+          <mxGeometry x="10" y="110" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="U1SpyC3rxzSheMR1uUHy-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="240" as="sourcePoint" />
             <mxPoint x="320" y="90" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="170" />
+              <mxPoint x="70" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iuLTxedcwstDW7Arj6xw-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="170" as="sourcePoint" />
+            <mxPoint x="70" y="170" as="sourcePoint" />
             <mxPoint x="320" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iuLTxedcwstDW7Arj6xw-4" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="110" width="70" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
