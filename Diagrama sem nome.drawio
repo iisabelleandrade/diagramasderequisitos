@@ -114,7 +114,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oChSvFo8GuXUbPZUIg0g" name="Página-3">
-    <mxGraphModel dx="1615" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1651" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iuLTxedcwstDW7Arj6xw-4" value="RECEPÇÃO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="750" y="250" width="70" height="120" as="geometry" />
+          <mxGeometry x="750" y="250" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="usyPnWL2PSzT4leq6cu--6" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -185,10 +185,10 @@
           <mxGeometry x="334" y="460" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="usyPnWL2PSzT4leq6cu--19" value="EQUIPE DE QUARTO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="750" y="460" width="70" height="120" as="geometry" />
+          <mxGeometry x="750" y="460" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="usyPnWL2PSzT4leq6cu--20" value="SEGURANÇA" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="750" y="630" width="70" height="120" as="geometry" />
+          <mxGeometry x="750" y="630" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="usyPnWL2PSzT4leq6cu--21" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
