@@ -415,17 +415,41 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_NASlQPhf5Imw1MRfIsl-1" value="SISTEMA DE FÁRMACIA&amp;nbsp; AT.4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="_NASlQPhf5Imw1MRfIsl-1" value="SISTEMA DE FARMÁCIA&amp;nbsp; AT.4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SRyqCrDU0r32sm5m7BO--2" value="ATENDENTE" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="230" width="40" height="70" as="geometry" />
+          <mxGeometry x="340" y="50" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SRyqCrDU0r32sm5m7BO--3" value="CLIENTE" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="130" width="40" height="70" as="geometry" />
+          <mxGeometry x="20" y="200" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="SRyqCrDU0r32sm5m7BO--4" value="GERENTE" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="330" width="40" height="70" as="geometry" />
+        <mxCell id="SRyqCrDU0r32sm5m7BO--4" value="ADMINISTRADOR" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="370" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SRyqCrDU0r32sm5m7BO--5" value="Aos medicamentos&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="70" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SRyqCrDU0r32sm5m7BO--6" value="forma de pagamento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SRyqCrDU0r32sm5m7BO--7" value="quantidade daquele&amp;nbsp;&lt;div&gt;medicamento&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="10" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SRyqCrDU0r32sm5m7BO--8" value="acompanhar pedido" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="230" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SRyqCrDU0r32sm5m7BO--9" value="compra e retirada" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="310" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SRyqCrDU0r32sm5m7BO--10" value="informações de dados&lt;div&gt;dos clientes&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="90" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SRyqCrDU0r32sm5m7BO--11" value="informações de dados&lt;div&gt;dos funcionários&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="170" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SRyqCrDU0r32sm5m7BO--12" value="GERENTE" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="250" width="40" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
