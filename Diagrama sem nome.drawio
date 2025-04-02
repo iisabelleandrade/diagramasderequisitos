@@ -991,7 +991,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dsze92HqlsX70ECWMwoI" name="exer. 4 e 5">
-    <mxGraphModel dx="994" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1606" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1041,19 +1041,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="slXwg8PQthSXDEaLinrn-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.077;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="slXwg8PQthSXDEaLinrn-5">
+        <mxCell id="slXwg8PQthSXDEaLinrn-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.013;entryY=0.394;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="slXwg8PQthSXDEaLinrn-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="160" as="sourcePoint" />
             <mxPoint x="414" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="slXwg8PQthSXDEaLinrn-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.058;entryY=0.66;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="slXwg8PQthSXDEaLinrn-6">
+        <mxCell id="slXwg8PQthSXDEaLinrn-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.039;entryY=0.689;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="slXwg8PQthSXDEaLinrn-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="160" as="sourcePoint" />
             <mxPoint x="410" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="slXwg8PQthSXDEaLinrn-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.074;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="slXwg8PQthSXDEaLinrn-3">
+        <mxCell id="slXwg8PQthSXDEaLinrn-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.008;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="slXwg8PQthSXDEaLinrn-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="150" as="sourcePoint" />
             <mxPoint x="120" y="100" as="targetPoint" />
