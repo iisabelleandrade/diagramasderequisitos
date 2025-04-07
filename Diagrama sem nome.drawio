@@ -1087,7 +1087,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KjnefEwLwChcRizkkECx" name="CDU - PROJ SALÃO">
-    <mxGraphModel dx="1987" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1776" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1290,7 +1290,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nKqdAhZykQI5oOjNDIKb-17" value="CASO DE USO - PROJETO SISTEMA DE AGENDAMENTO DE SALÃO DE BELEZA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry y="30" width="470" height="40" as="geometry" />
+          <mxGeometry x="120" y="30" width="470" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
