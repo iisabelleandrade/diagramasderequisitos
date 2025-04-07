@@ -1290,7 +1290,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nKqdAhZykQI5oOjNDIKb-17" value="CASO DE USO - PROJETO SISTEMA DE AGENDAMENTO DE SALÃO DE BELEZA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="30" width="470" height="40" as="geometry" />
+          <mxGeometry y="30" width="470" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
