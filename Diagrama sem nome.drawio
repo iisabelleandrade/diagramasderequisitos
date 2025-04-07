@@ -1086,7 +1086,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="KjnefEwLwChcRizkkECx" name="Página-11">
+  <diagram id="KjnefEwLwChcRizkkECx" name="CDU - PROJ SALÃO">
     <mxGraphModel dx="2219" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1288,6 +1288,9 @@
             <mxPoint x="600" y="400" as="sourcePoint" />
             <mxPoint x="650" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nKqdAhZykQI5oOjNDIKb-17" value="CASO DE USO - PROJETO SISTEMA DE AGENDAMENTO DE SALÃO DE BELEZA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="30" width="470" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
