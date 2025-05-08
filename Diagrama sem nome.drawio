@@ -1411,13 +1411,13 @@
         <mxCell id="4s5tzrKukmURDvXBcDne-22" value="Levantamento de requisitos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="1400" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4s5tzrKukmURDvXBcDne-23" value="&lt;span id=&quot;docs-internal-guid-77ea68af-7fff-c881-743f-774327d8438c&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Protótipos UI/UX&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4s5tzrKukmURDvXBcDne-23" value="&lt;span id=&quot;docs-internal-guid-77ea68af-7fff-c881-743f-774327d8438c&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font&gt;Protótipos UI/UX&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="1390" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kSg0ayitp8Dp3vWJAXpG-1" value="&lt;span id=&quot;docs-internal-guid-63c3c0e4-7fff-6cbc-9ae0-0d65369f4be8&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Definição do Escopo&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kSg0ayitp8Dp3vWJAXpG-1" value="&lt;span id=&quot;docs-internal-guid-63c3c0e4-7fff-6cbc-9ae0-0d65369f4be8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Definição do Escopo&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="1460" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ojc97R_7M8WORi4ppvOf-1" value="&lt;span id=&quot;docs-internal-guid-799ad839-7fff-cb67-0f02-172b15733b13&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Aprovação do Layout&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ojc97R_7M8WORi4ppvOf-1" value="&lt;span id=&quot;docs-internal-guid-799ad839-7fff-cb67-0f02-172b15733b13&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Aprovação do Layout&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="1450" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kSg0ayitp8Dp3vWJAXpG-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -1438,13 +1438,13 @@
             <mxPoint x="730" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ojc97R_7M8WORi4ppvOf-4" value="&lt;span id=&quot;docs-internal-guid-79e53c81-7fff-654a-8195-2dd592693278&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&amp;nbsp;Back-End&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ojc97R_7M8WORi4ppvOf-4" value="&lt;span id=&quot;docs-internal-guid-79e53c81-7fff-654a-8195-2dd592693278&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp;Back-End&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1430" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kSg0ayitp8Dp3vWJAXpG-2" value="Treinamento do cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="717" y="1400" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ojc97R_7M8WORi4ppvOf-5" value="&lt;span id=&quot;docs-internal-guid-db6c2dca-7fff-3bd5-f8a5-b0a12bc0ddab&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&amp;nbsp;Front-End&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ojc97R_7M8WORi4ppvOf-5" value="&lt;span id=&quot;docs-internal-guid-db6c2dca-7fff-3bd5-f8a5-b0a12bc0ddab&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp;Front-End&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1390" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kSg0ayitp8Dp3vWJAXpG-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -1453,7 +1453,7 @@
             <mxPoint x="730" y="1470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ojc97R_7M8WORi4ppvOf-6" value="&lt;span id=&quot;docs-internal-guid-00d875cc-7fff-cf9b-9d95-b9e2a0f6335a&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Integração de Pagamentos&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ojc97R_7M8WORi4ppvOf-6" value="&lt;span id=&quot;docs-internal-guid-00d875cc-7fff-cf9b-9d95-b9e2a0f6335a&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Integração de Pagamentos&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1470" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kSg0ayitp8Dp3vWJAXpG-6" value="Publicação" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1498,7 +1498,7 @@
             <mxPoint x="444" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kSg0ayitp8Dp3vWJAXpG-14" value="Configuração do servidor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kSg0ayitp8Dp3vWJAXpG-14" value="&lt;font face=&quot;Helvetica&quot;&gt;Configuração do servidor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="431" y="1400" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kSg0ayitp8Dp3vWJAXpG-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
