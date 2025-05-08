@@ -1409,7 +1409,10 @@
           <mxGeometry x="20" y="1400" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4s5tzrKukmURDvXBcDne-23" value="&lt;span id=&quot;docs-internal-guid-77ea68af-7fff-c881-743f-774327d8438c&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Protótipos UI/UX&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="1430" width="110" height="30" as="geometry" />
+          <mxGeometry x="150" y="1390" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ojc97R_7M8WORi4ppvOf-1" value="&lt;span id=&quot;docs-internal-guid-799ad839-7fff-cb67-0f02-172b15733b13&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Aprovação do Layout&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1450" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
