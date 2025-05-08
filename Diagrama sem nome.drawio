@@ -1296,7 +1296,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ndaaKl5xCRrN8HZTfM3W" name="Página-12">
-    <mxGraphModel dx="571" dy="-634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="-392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1439,7 +1439,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ojc97R_7M8WORi4ppvOf-4" value="&lt;span id=&quot;docs-internal-guid-79e53c81-7fff-654a-8195-2dd592693278&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&amp;nbsp;Back-End&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1450" width="110" height="30" as="geometry" />
+          <mxGeometry x="290" y="1430" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kSg0ayitp8Dp3vWJAXpG-2" value="Treinamento do cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="717" y="1400" width="110" height="30" as="geometry" />
@@ -1454,7 +1454,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ojc97R_7M8WORi4ppvOf-6" value="&lt;span id=&quot;docs-internal-guid-00d875cc-7fff-cf9b-9d95-b9e2a0f6335a&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Integração de Pagamentos&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1520" width="110" height="30" as="geometry" />
+          <mxGeometry x="290" y="1470" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kSg0ayitp8Dp3vWJAXpG-6" value="Publicação" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="717" y="1460" width="110" height="30" as="geometry" />
