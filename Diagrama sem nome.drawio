@@ -1442,7 +1442,7 @@
           <mxGeometry x="290" y="1430" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kSg0ayitp8Dp3vWJAXpG-2" value="Treinamento do cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="717" y="1400" width="110" height="30" as="geometry" />
+          <mxGeometry x="717" y="1400" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ojc97R_7M8WORi4ppvOf-5" value="&lt;span id=&quot;docs-internal-guid-db6c2dca-7fff-3bd5-f8a5-b0a12bc0ddab&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&amp;nbsp;Front-End&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1390" width="110" height="30" as="geometry" />
@@ -1457,7 +1457,7 @@
           <mxGeometry x="290" y="1470" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kSg0ayitp8Dp3vWJAXpG-6" value="Publicação" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="717" y="1460" width="110" height="30" as="geometry" />
+          <mxGeometry x="717" y="1460" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kSg0ayitp8Dp3vWJAXpG-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
