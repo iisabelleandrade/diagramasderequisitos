@@ -1296,11 +1296,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ndaaKl5xCRrN8HZTfM3W" name="Página-12">
-    <mxGraphModel dx="571" dy="-634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="-521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4s5tzrKukmURDvXBcDne-1" value="&lt;span id=&quot;docs-internal-guid-780b4f17-7fff-b90a-a4d6-d66dc4739e66&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 13pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;WBS - Estrutura Analítica do Projeto&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;markdown&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="4s5tzrKukmURDvXBcDne-1" value="&lt;span id=&quot;docs-internal-guid-780b4f17-7fff-b90a-a4d6-d66dc4739e66&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 13pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;WBS - Estrutura Analítica do Projeto&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="1190" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4s5tzrKukmURDvXBcDne-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -1354,10 +1354,10 @@
             <mxPoint x="740" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4s5tzrKukmURDvXBcDne-10" value="PLANEJAMENTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+        <mxCell id="4s5tzrKukmURDvXBcDne-10" value="PLANEJAMENTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#E51400,#FF6363);fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry y="1340" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4s5tzrKukmURDvXBcDne-11" value="DESIGN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="4s5tzrKukmURDvXBcDne-11" value="DESIGN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FA6800,#FFA16A);strokeColor=#C73500;fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
           <mxGeometry x="140" y="1340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4s5tzrKukmURDvXBcDne-12" value="INFRAESTRUTURA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
@@ -1369,7 +1369,7 @@
         <mxCell id="4s5tzrKukmURDvXBcDne-14" value="ENTREGA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="700" y="1340" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4s5tzrKukmURDvXBcDne-15" value="TESTES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CC0000);" parent="1" vertex="1">
+        <mxCell id="4s5tzrKukmURDvXBcDne-15" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;TESTES&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FF66FF);" parent="1" vertex="1">
           <mxGeometry x="560" y="1340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4s5tzrKukmURDvXBcDne-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" target="4s5tzrKukmURDvXBcDne-10" edge="1">
