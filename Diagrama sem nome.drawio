@@ -1420,6 +1420,15 @@
             <mxPoint x="280" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ojc97R_7M8WORi4ppvOf-4" value="&lt;span id=&quot;docs-internal-guid-79e53c81-7fff-654a-8195-2dd592693278&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&amp;nbsp;Back-End&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1450" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ojc97R_7M8WORi4ppvOf-5" value="&lt;span id=&quot;docs-internal-guid-db6c2dca-7fff-3bd5-f8a5-b0a12bc0ddab&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&amp;nbsp;Front-End&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1390" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ojc97R_7M8WORi4ppvOf-6" value="&lt;span id=&quot;docs-internal-guid-00d875cc-7fff-cf9b-9d95-b9e2a0f6335a&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Integração de Pagamentos&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1520" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
